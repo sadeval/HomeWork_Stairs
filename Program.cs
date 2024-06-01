@@ -6,7 +6,7 @@ namespace Stairs
     {
         static void Main(string[] args)
         {
-            int step;
+            int step = 0;
             string floor = "***";
             string wall = "*";
 
